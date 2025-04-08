@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Qasim-1-A
 - 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning Python and Front end development.
+- 🌱 I’m currently learning java ☕ and Front end development.
 - 💞️ I’m looking to collaborate wit software company
 - 📫 How to reach me not available yet
-- 😄 Pronouns: ..He.
+-  Pronouns: ..He.
 - ⚡ Fun fact: ...No.
 
 <!---
