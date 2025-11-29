@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Qasim-1-A
 - 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning java ☕ and Front end development.
 - 💞️ I’m looking to collaborate wit software company
-- 📫 How to reach me not available yet
+- 📫 Dm Me Through Linkedin https://www.linkedin.com/in/qasim-245172338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -  Pronouns: ..He.
 - ⚡ Fun fact: ...No.
 
